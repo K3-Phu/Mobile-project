@@ -1,3 +1,3 @@
 # Mobile-project
 
-Hi
+Hi, mini
